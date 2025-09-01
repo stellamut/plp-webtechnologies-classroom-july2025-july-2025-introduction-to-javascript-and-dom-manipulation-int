@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #fff;
+  color: #746f6f;
+}
+
+.dark-mode {
+  background-color: #d9e4dc;
+  color: #fff;
+}
+
+button {
+  margin-top: 10px;
+  padding: 5px 10px;
+}
